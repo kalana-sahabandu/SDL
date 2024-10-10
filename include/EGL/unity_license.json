@@ -1,0 +1,28 @@
+{
+    "licenses": [
+        {
+            "name": "SDL2/include/EGL",
+            "formal_name": "mesa",
+            "provenance": "Upstream: https://wayland.freedesktop.org/\nUnity: https://bitbucket.org/Unity-Technologies/sdl\nEGL: Copyright (c) 2013-2014 The Khronos Group Inc.",
+            "license": "EGL (SDL2 include) | MIT License\nCopyright (c) 2013-2014 The Khronos Group Inc.",
+            "oss_licenses": "MIT",
+            "purpose": "Linux",
+            "used_in_desktop_players": true,
+            "used_in_editor": true,
+            "notes": "headers only used in SDL2",
+            "version": "1.9.0",
+        },
+        {
+            "name": "SDL2/include/EGL",
+            "formal_name": "mesa",
+            "provenance": "Unity: https://bitbucket.org/Unity-Technologies/sdl",
+            "license": "Mesa (SDL2 include) | MIT License\nCopyright (C) 1999-2007  Brian Paul   All Rights Reserved.",
+            "oss_licenses": "MIT",
+            "purpose": "Linux",
+            "used_in_desktop_players": true,
+            "used_in_editor": true,
+            "notes": "headers only used in SDL2",
+            "version": "1.9.0",
+        },
+    ],
+}

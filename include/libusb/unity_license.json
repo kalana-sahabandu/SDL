@@ -1,0 +1,15 @@
+{
+    "licenses": [
+        {
+            "name": "SDL2/include/libusb",
+            "provenance": "Upstream: https://libusb.info/",
+            "license": "libusb (SDL2 include) | GNU Lesser General Public License v2.1\nCopyright 2001 Johannes Erdfelt <johannes@erdfelt.com>\nCopyright 2007-2008 Daniel Drake <dsd@gentoo.org>\nCopyright 2012 Pete Batard <pete@akeo.ie>\nCopyright 2012-2018 Nathan Hjelm <hjelmn@cs.unm.edu>\nCopyright 2014-2020 Chris Dickens <christopher.a.dickens@gmail.com>",
+            "oss_licenses": "GNU Lesser General Public License v2.1",
+            "purpose": "Linux",
+            "used_in_desktop_players": true,
+            "used_in_editor": true,
+            "notes": "headers only used in SDL2",
+            "version": "1.0.26"
+        }
+    ]
+}
