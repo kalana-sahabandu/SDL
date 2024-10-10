@@ -1,0 +1,17 @@
+{
+    "licenses": [
+        {
+            "name": "SDL2",
+            "formal_name": "Simple DirectMedia Layer 2.0 (SDL2)",
+            "provenance": "Upstream: https://www.libsdl.org/download-2.0.php\nhttps://www.libsdl.org/license.php",
+            "license": "SDL2 | zlib License\nCopyright (C) Sam Lantinga <slouken@libsdl.org>",
+            "modified": true,
+            "oss_licenses": "zlib",
+            "purpose": "Linux",
+            "used_in_desktop_players": true,
+            "used_in_editor": true,
+            "notes": "",
+            "version": "2.0.22"
+        }
+    ]
+}
